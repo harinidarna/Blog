@@ -10,7 +10,11 @@ data = response.json()
 
 img_url = "https://images.pexels.com/photos/424154/pexels-photo-424154.jpeg"
 
+# put your gmail below
+# example: gmail = "123@gmail.com"
 gmail = "YOUR GMAIL"
+# put any of your app password below
+# example: password = "123456"
 password = "YOUR GMAIL PASSWORD"
 
 
